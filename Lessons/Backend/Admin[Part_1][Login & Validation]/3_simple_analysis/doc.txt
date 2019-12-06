@@ -1,0 +1,36 @@
+Simple analysics (INVENTORY APPLICATION)
+
+============================
+Database Structure
+============================
+- Settings & Info
+- Groups
+- Users
+- Categories
+- Items
+- Logs
+
+==============================
+Application Features & Pages
+==============================
+- Main Pages
+- User & Groups Pages
+- Categories & Items Pages
+
+==============================
+Application Techniques, 
+Tools & Librairies
+==============================
+- Design & Front End
+- Programming & Backend
+
+-------------------------------
+
+Pages & Features
+ - Settings
+ - Dashboard
+ - Statistics
+ - Log
+ - Users
+ - Comments
+ - 

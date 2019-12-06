@@ -1,0 +1,8 @@
+Introduction about the course
+
+- Create eCommerce
+- Multilingual
+- Responsive
+- jQuery
+- Plain PHP [ No OOP, No MVC , Design Pattern]
+- PDO

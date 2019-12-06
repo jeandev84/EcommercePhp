@@ -1,0 +1,37 @@
+SELECT items.*, categories.Name
+FROM items
+INNER JOIN categories
+ON categories.ID = items.Cat_ID
+
+
+SELECT items.*, categories.Name AS category_name
+FROM items
+INNER JOIN categories
+ON categories.ID = items.Cat_ID
+
+
+
+SELECT items.*, categories.Name AS category_name
+FROM items
+INNER JOIN categories ON categories.ID = items.Cat_ID
+INNER JOIN users ON users.UserID = items.Member_ID
+
+
+SELECT 
+     items.*, 
+     categories.Name AS category_name, 
+     users.Username
+FROM items
+INNER JOIN categories ON categories.ID = items.Cat_ID
+INNER JOIN users ON users.UserID = items.Member_ID
+
+
+
+
+SELECT 
+     items.*, 
+     categories.Name AS category_name, 
+     users.Username AS jean
+FROM items
+INNER JOIN categories ON categories.ID = items.Cat_ID
+INNER JOIN users ON users.UserID = items.Member_ID

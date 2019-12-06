@@ -1,0 +1,9 @@
+========================
+== Functions Document ==
+========================
+
+
+getAllFrom($field, $table, $where = NULL , $and = NULL, $orderfield, $ordering = 'DESC')
+
+$where can be empty
+$ordering par defaut vaut 'DESC'

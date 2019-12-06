@@ -1,0 +1,14 @@
+What i need to learn this course
+
+- HTML
+- CSS
+- jQuery
+- Bootstrap
+- PHP
+- PDO
+
+
+- AptanaStudio
+- Netbeans
+- PHP Strom
+

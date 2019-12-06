@@ -1,0 +1,7 @@
+Verifier
+Entre deux navigateur 
+Un Utilisateur de RegStatus = 0 et RegStatus = 1
+
+============
+Pour ca on a enregistre dans la base de donnee
+un utilisateur Khalid.

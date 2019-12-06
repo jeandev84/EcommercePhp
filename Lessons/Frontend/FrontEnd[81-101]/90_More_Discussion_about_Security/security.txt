@@ -1,0 +1,13 @@
+Parametre
+- $_GET['id'] type integer , intval
+
+SQL
+- Bindings Parameters and fields
+
+In file init.php
+write 
+
+ini_set('display_errors', 'On');
+error_reporting(E_ALL);
+
+And Create error page
